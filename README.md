@@ -1,4 +1,24 @@
-# GlobalSolution-IA - Passo a Passo para replicar e testar a soluçaõ
+# GlobalSolution-IA - Passo a Passo para replicar e testar a solução
+
+
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+# Detalhamento e descrição da solução
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 # 1 - Primeiro passo / ultimo passo
 # Inicie o wokwi em seu navegador e adicionar o codigo na tela princinal, para testar a sua funcionalidade clique no botão verde, assim irá começar a se conectar com o wifi e depois de conectado a aplicação mostra a temperatura ambiente em tempo real, o potênciometro serve para simular a velocidade do vento onde movendo o pteniro o resultado mudará e o  LDR (Light Dependent Resistor) serve como um sensor de luz. (Inicie a aplicação após seguir os passos a seguir)
@@ -55,7 +75,6 @@
 
 
 ![Captura de tela 2024-11-20 154658](https://github.com/user-attachments/assets/e1442d6b-e522-4e52-af79-8d360101a925)
-
 
 
 
