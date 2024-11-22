@@ -21,7 +21,6 @@ Com base nesses dados, o sistema calcula um índice de energia transformada, que
 
 # Funcionamento do Sistema 
 
-Funcionamento do Sistema
 O funcionamento do sistema é baseado na integração de sensores e componentes que monitoram em tempo real variáveis ambientais relevantes para o consumo de energia. Cada um desses elementos desempenha um papel fundamental para a coleta e análise de dados, permitindo que o sistema tome decisões informadas para otimizar a eficiência energética.
 
 Monitoramento em Tempo Real
