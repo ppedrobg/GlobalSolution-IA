@@ -7,19 +7,19 @@
 
 
 
-# 2 No segundo passo, isso antes de iniciar a aplicação adicione no diagram. Json, o json que seria para que o circuito já fosse montado economizando tempo e trabalho 
+# 2 - No segundo passo, isso antes de iniciar a aplicação adicione no diagram. Json, o json que seria para que o circuito já fosse montado economizando tempo e trabalho 
 
 ![Captura de tela 2024-11-20 155115](https://github.com/user-attachments/assets/5cafcc67-b696-40ae-bf55-e9d855176e13)
 
 
 
-# 3 Seguindo o terceiro passo, aqui mostra as libraries que estão sendo usadas, sempre bom verificar para que não ocorra nenhum erro 
+# 3 - Seguindo o terceiro passo, aqui mostra as libraries que estão sendo usadas, sempre bom verificar para que não ocorra nenhum erro 
 
 ![Captura de tela 2024-11-20 155129](https://github.com/user-attachments/assets/bb706638-1189-4ca2-b428-6346b8560f50)
 
 
 
-# 4 No quarto passo é onde iremos adicionar na biblioteca o que vamos precisar, no botão azul, assim que clicar procure por thinger.io e Arduino_ Json, são essenciais para que a aplicação funcione pois com o thinger.io que iremos conectar e mostrar nossos resultados de uma forma visual mais eficiente  
+# 4 - No quarto passo é onde iremos adicionar na biblioteca o que vamos precisar, no botão azul, assim que clicar procure por thinger.io e Arduino_ Json, são essenciais para que a aplicação funcione pois com o thinger.io que iremos conectar e mostrar nossos resultados de uma forma visual mais eficiente  
 
 ![Captura de tela 2024-11-20 155144](https://github.com/user-attachments/assets/eed71459-8ef6-40c4-beed-8ae99bf9bcde)
 
