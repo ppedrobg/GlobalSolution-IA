@@ -21,13 +21,34 @@ Com base nesses dados, o sistema calcula um índice de energia transformada, que
 
 # Funcionamento do Sistema 
 
-Monitoramento em Tempo Real 
+Funcionamento do Sistema
+O funcionamento do sistema é baseado na integração de sensores e componentes que monitoram em tempo real variáveis ambientais relevantes para o consumo de energia. Cada um desses elementos desempenha um papel fundamental para a coleta e análise de dados, permitindo que o sistema tome decisões informadas para otimizar a eficiência energética.
 
-O potenciômetro simula a velocidade do vento, permitindo ajustes dinâmicos que representam diferentes condições climáticas. 
+Monitoramento em Tempo Real
+Velocidade do Vento (Simulada com Potenciômetro):
 
-A API do OpenWeather fornece a temperatura real da cidade de São Paulo, garantindo dados confiáveis e precisos para análise. 
+Um potenciômetro é utilizado para simular diferentes intensidades de vento, representando condições climáticas variáveis.
+A variação no potenciômetro altera os valores de entrada, que são interpretados pelo sistema como velocidades de vento simuladas. Esses valores são usados para ajustar o funcionamento de dispositivos que dependem da ventilação ou para prever o impacto do vento na eficiência de sistemas como turbinas eólicas.
+Essa abordagem permite testes controlados e demonstrações práticas, mesmo em ambientes internos ou quando não há vento real disponível.
+Temperatura Ambiente (Dados da API do OpenWeather):
 
-O sensor LDR monitora a intensidade da luz ambiente, avaliando a necessidade de acionamento de iluminação artificial. 
+A integração com a API do OpenWeather permite que o sistema obtenha dados meteorológicos em tempo real da cidade de São Paulo.
+Esses dados incluem a temperatura atual, que é um fator crucial para ajustar dispositivos de climatização, como aquecedores e sistemas de ar-condicionado.
+A conexão constante com a API garante que os dados sejam precisos e atualizados, permitindo ao sistema reagir rapidamente a mudanças climáticas e ajustar o consumo energético conforme necessário.
+Nível de Iluminação (Sensor LDR):
+
+O sensor LDR (Light Dependent Resistor) mede a intensidade da luz ambiente no local onde o sistema está instalado.
+Com base nos valores medidos, o sistema avalia se há luz natural suficiente para manter os níveis de iluminação necessários. Caso a luz natural seja suficiente, o sistema pode:
+Reduzir ou desligar lâmpadas para economizar energia.
+Diminuir a intensidade de luminárias que possuem controle de brilho ajustável.
+Além disso, o LDR ajuda a monitorar as condições ao longo do dia, ajustando a iluminação artificial conforme a intensidade da luz natural diminui ou aumenta.
+Processamento dos Dados
+Após a coleta dos dados de velocidade do vento, temperatura e iluminação, o sistema realiza uma análise em tempo real para calcular um índice de energia transformada. Esse índice reflete o impacto das condições ambientais no consumo energético e é usado para determinar a necessidade de ajustes nos dispositivos conectados.
+
+Categorização do Índice:
+O índice é classificado em níveis, com 1001 sendo considerado um limite moderado.
+Abaixo de 1001: O consumo é considerado eficiente, e nenhuma ação adicional é necessária.
+Acima de 1001: O sistema sugere ou implementa ações corretivas, como reduzir o uso de dispositivos desnecessários ou ajustar a intensidade de iluminação ou ventilação.
 
 # Estimativa de Consumo de Energia 
 A partir dos dados coletados, o sistema calcula um índice que representa a energia transformada. Esse índice ajuda a identificar se o consumo está dentro de limites aceitáveis ou se ajustes são necessários. 
