@@ -128,7 +128,7 @@ ________________________________________________________________________________
 # Inicie o wokwi em seu navegador e adicione o codigo na tela princinal, para testar a sua funcionalidade clique no botão verde, assim irá começar a se conectar com o wifi e depois de conectado a aplicação mostra a temperatura ambiente em tempo real, o potênciometro serve para simular a velocidade do vento onde movendo o ponteniro o resultado mudará e o  LDR (Light Dependent Resistor) serve como um sensor de luz. (Inicie a aplicação após seguir os passos a seguir)
 
 
-![Captura de tela 2024-11-20 155052](https://github.com/user-attachments/assets/641665f8-795b-42ae-87ce-6e689aa52b30)
+![sub](https://github.com/user-attachments/assets/3d347c97-648d-417d-ba79-e0c89e994f6e)
 
 
 
