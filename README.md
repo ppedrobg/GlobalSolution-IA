@@ -18,6 +18,9 @@
 ![Captura de tela 2024-11-20 155129](https://github.com/user-attachments/assets/bb706638-1189-4ca2-b428-6346b8560f50)
 
 
+
+# 4 No quarto passo é onde iremos adicionar na biblioteca o que vamos precisar, no botão azul, assim que clicar procure por thinger.io e Arduino_ Json, são essenciais para que a aplicação funcione pois com o thinger.io que iremos conectar e mostrar nossos resultados de uma forma visual mais eficiente  
+
 ![Captura de tela 2024-11-20 155144](https://github.com/user-attachments/assets/eed71459-8ef6-40c4-beed-8ae99bf9bcde)
 
 
